@@ -131,3 +131,5 @@ STATICFILES_DIRS = [
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 ALLOWED_HOSTS = ['localhost','comentariosrender-production.up.railway.app']
+
+CSRF_TRUSTED_ORIGINS = ['http://*','https://comentariosrender-production.up.railway.app/']
