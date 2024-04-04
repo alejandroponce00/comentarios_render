@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-e3p9y3i(y%1vc1^q!87d8=ifju+26qr!bs#6v0et)=&-pyk0of
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost','comentariosrender-production.up.railway.app']
 
 
 # Application definition
