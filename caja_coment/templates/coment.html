@@ -6,13 +6,14 @@
     </head>    
   <body class="bg-dark " >
     
-    <h1 class="text-center text-primary mt-5">Alejandro Ponce developer</h1>
-    <h2 class="text-center text-primary mt-5">Caja de comentarios</h2>
+    
     <img src="{% static '/images/IMG_7443.PNG' %}" alt =""class="img-fluid w-100">
     <div class= "position-absolute top-50 start-50 translate-middle">
       
     
     <form method="post" class="text-dark h5">
+      <h1 class="text-center text-primary mt-5">Alejandro Ponce developer</h1>
+    <h2 class="text-center text-primary mt-5">Caja de comentarios</h2>
       {% csrf_token %}
     {{form.as_p}}
     <button>
