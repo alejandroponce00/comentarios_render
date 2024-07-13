@@ -6,8 +6,7 @@
 ## 🛠️ Tecnologías Utilizadas
 - **Django**: Framework de desarrollo web utilizado para la lógica del servidor y gestión de usuarios.
 - **PostgreSQL**: Base de datos relacional para el almacenamiento persistente de los comentarios.
-- **HTML/CSS/JavaScript**: Frontend básico para la interfaz de usuario.
-- **Docker**: Contenedorización para facilitar el despliegue y mantenimiento en Railway.
+
 
 ## 📸 Capturas de Pantalla
 _Inserta aquí capturas de pantalla de la interfaz de usuario de tu aplicación._
