@@ -13,6 +13,6 @@
 _Inserta aquí capturas de pantalla de la interfaz de usuario de tu aplicación._
 
 ## 🌐 Demo
-_Puedes ver una demostración en vivo de "Caja de Comentarios" [aquí]([enlace-a-tu-demo][https://comentariosrender-production.up.railway.app/]._
+_Puedes ver una demostración en vivo de "Caja de Comentarios" [enlace-a-tu-demo][https://comentariosrender-production.up.railway.app/]._
 
 ¡Espero que te sea útil! Si necesitas más detalles o algún ajuste, házmelo saber. 😊
